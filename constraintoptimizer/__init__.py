@@ -1,1 +1,1 @@
-from .constraintoptimizer import optimize
+from .constraintoptimizer import TConstraintOptimizer
